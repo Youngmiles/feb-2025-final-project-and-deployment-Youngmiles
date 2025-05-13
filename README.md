@@ -35,5 +35,5 @@ An e-commerce platform specializing in educational resources including books, on
 Davis Kathungu - @davi_s911 - daviskathungu@gmail.com
 
 ## Deployment
-Project Link: https://github.com/yourusername/knowledge-hub
+Project Link: (https://ecommerce-school.netlify.app/)
 
