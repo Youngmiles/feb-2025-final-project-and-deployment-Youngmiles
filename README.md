@@ -1,25 +1,39 @@
 # Final Project and Deployment
 
-## Objectives
-Build a fully functional web application.
-Apply HTML, CSS, and JavaScript concepts learned.
-Deploy the project using GitHub Pages, Netlify, or Vercel.
+# MY SCHOOL - E-Commerce Website
 
-## Instructions
-Choose one of the following project ideas:
-Blog Website: Implement a multi-page site with navigation.
-Ecommerce Website: Implement a multi-page site with navigation.
+An e-commerce platform specializing in educational resources including books, online courses and events.
 
->[!NOTE]
-> - Include at least:
-> - A responsive design.
-> - JavaScript interactivity.
-> - A deployment link.
+## Features
 
-## Tasks
+### Core Features
+- **Responsive Design**: Works on all device sizes
+- **Interactive Contact Form**: With real-time validation
+- **Product Categories**:
+  - Books (Educational and Fiction)
+  - Online Courses
+  - Events and Webinars
+- **User-Friendly Navigation**: Intuitive menu structure
 
-Create a well-structured HTML5 document.
-Use at least 5 different HTML elements.
-Ensure semantic correctness.
+### Technical Features
+- Form validation with JavaScript
+- Dynamic error handling
+- Success feedback system
+- Mobile-first approach
+- Semantic HTML5 structure
 
-Good luck and happy coding! 🚀💻
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- Bootstrap 5 (for responsive components)
+
+## License
+ Distributed under the MIT License. See LICENSE for more information.
+
+## Contact
+Davis Kathungu - @davi_s911 - daviskathungu@gmail.com
+
+## Deployment
+Project Link: https://github.com/yourusername/knowledge-hub
+
